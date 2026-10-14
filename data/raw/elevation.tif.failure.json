@@ -1,0 +1,6 @@
+{
+  "attemptedAt": "2026-10-13T10:54:47.953Z",
+  "url": "https://copernicus-dem-30m.s3.amazonaws.com/Copernicus_DSM_COG_10_N08_00_E080_00_DEM/Copernicus_DSM_COG_10_N08_00_E080_00_DEM.tif",
+  "error": "TypeError: fetch failed",
+  "cause": "AggregateError"
+}

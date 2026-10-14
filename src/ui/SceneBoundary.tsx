@@ -1,0 +1,2 @@
+import {Component} from 'react';import type {ReactNode,ErrorInfo} from 'react';
+export default class SceneBoundary extends Component<{children:ReactNode;fallback:ReactNode;onError:()=>void},{failed:boolean}>{state={failed:false};static getDerivedStateFromError(){return {failed:true}}componentDidCatch(error:Error,info:ErrorInfo){console.error('3D renderer failed',error,info);this.props.onError()}render(){return this.state.failed?this.props.fallback:this.props.children}}

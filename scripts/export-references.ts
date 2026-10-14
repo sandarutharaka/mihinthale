@@ -1,0 +1,3 @@
+import fs from 'node:fs/promises';import {landmarks} from '../src/data/landmarks.ts';
+await fs.mkdir('data/reference',{recursive:true});
+await fs.writeFile('data/reference/landmarks.geojson',JSON.stringify({type:'FeatureCollection',features:landmarks.filter(l=>l.coordinates).map(l=>({type:'Feature',id:l.id,geometry:{type:'Point',coordinates:l.coordinates},properties:{name:l.name.en,'name:si':l.name.si,coordinateStatus:l.coordinateStatus,source:l.coordinateSource?.url,sourceLabel:l.coordinateSource?.label,transcribedOn:'2026-10-13',method:'Derived from cached OSM nodes, polygon centroids or stairway midpoint; see osm-landmark-derivation.json. Not a survey.',modelAccuracy:l.modelAccuracy.en}}))},null,2));

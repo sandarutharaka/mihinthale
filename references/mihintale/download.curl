@@ -1,0 +1,53 @@
+url = "https://upload.wikimedia.org/wikipedia/commons/1/13/The_Buddha_at_Mihintale%2C_Sri_Lanka.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+output = "references/mihintale/photos/The_Buddha_at_Mihintale__Sri_Lanka.JPG"
+location
+fail
+max-time = 60
+next
+url = "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mihintale%2C_Aradhana_Gala_%286501278681%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+output = "references/mihintale/photos/Mihintale__Aradhana_Gala__6501278681_.jpg"
+location
+fail
+max-time = 60
+next
+url = "https://upload.wikimedia.org/wikipedia/commons/6/6e/Conversation_Hall_of_Mihintale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+output = "references/mihintale/photos/Conversation_Hall_of_Mihintale.jpg"
+location
+fail
+max-time = 60
+next
+url = "https://upload.wikimedia.org/wikipedia/commons/0/04/Ancient_staircase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+output = "references/mihintale/photos/Ancient_staircase.jpg"
+location
+fail
+max-time = 60
+next
+url = "https://upload.wikimedia.org/wikipedia/commons/3/3a/Monks_lion_Bath_Mihintale_-_Sri_Lanka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+output = "references/mihintale/photos/Monks_lion_Bath_Mihintale_-_Sri_Lanka.jpg"
+location
+fail
+max-time = 60
+next
+url = "https://upload.wikimedia.org/wikipedia/commons/c/c5/Mihintale_Buddha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+output = "references/mihintale/photos/Mihintale_Buddha.jpg"
+location
+fail
+max-time = 60
+next
+url = "https://upload.wikimedia.org/wikipedia/commons/0/03/Escaleras_de_Mihintale_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+output = "references/mihintale/photos/Escaleras_de_Mihintale_1.jpg"
+location
+fail
+max-time = 60
+next
+url = "https://upload.wikimedia.org/wikipedia/commons/f/fd/Escaleras_de_Mihintale_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+output = "references/mihintale/photos/Escaleras_de_Mihintale_2.jpg"
+location
+fail
+max-time = 60
+next
+url = "https://upload.wikimedia.org/wikipedia/commons/2/22/World_oldest_hospital_Mihintale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+output = "references/mihintale/photos/World_oldest_hospital_Mihintale.jpg"
+location
+fail
+max-time = 60

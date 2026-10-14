@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "status": "ready",
+  "origin": [
+    80.517,
+    8.351
+  ],
+  "crs": "EPSG:32644",
+  "verticalDatum": "EGM2008 orthometric metres",
+  "verticalExaggeration": 1,
+  "terrain": {
+    "width": 91,
+    "height": 69,
+    "minX": -560,
+    "minZ": -340,
+    "step": 10
+  },
+  "generatedAt": "2026-10-13T17:37:28.525Z",
+  "sources": [
+    {
+      "name": "Copernicus DEM GLO-30 2021",
+      "url": "https://copernicus-dem-30m.s3.amazonaws.com/Copernicus_DSM_COG_10_N08_00_E080_00_DEM/Copernicus_DSM_COG_10_N08_00_E080_00_DEM.tif",
+      "license": "Copernicus WorldDEM-30 licence — https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/DEM/resources/license/License-COPDEM-30.pdf",
+      "retrievedAt": "2026-10-13T17:34:15.683Z",
+      "sha256": "1a59eb43c6fcf914983a2aa69e85b7e8e33cc1802fefa88f57ff37e8e1c44814"
+    },
+    {
+      "name": "OpenStreetMap sacred hill extract",
+      "url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=80.512,8.348,80.520,8.354",
+      "license": "ODbL 1.0 — https://www.openstreetmap.org/copyright",
+      "retrievedAt": "2026-10-13T17:33:48.774Z",
+      "sha256": "0b658abc944266ed1f14316f4de7b6010546104f847bec0e712718901f428c77"
+    }
+  ],
+  "warnings": [
+    "Source resolution: 1 arc-second, nominal 30 m. 10 m display resampling does not improve accuracy. DSM includes vegetation and structures; not bare earth.",
+    "2 feature parts crossing the compact boundary or lacking height coverage were omitted, not joined across gaps."
+  ],
+  "stats": {
+    "features": 45,
+    "filledSourceSamples": 0,
+    "skippedParts": 2
+  }
+}

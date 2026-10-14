@@ -1,0 +1,2 @@
+import {useGLTF} from '@react-three/drei';import {useMemo} from 'react';import type {Mesh} from 'three';
+export default function BuddhaAsset(){const {scene}=useGLTF(import.meta.env.BASE_URL+'models/mihintale-buddha.glb',false,false);const model=useMemo(()=>{const copy=scene.clone(true);copy.traverse(obj=>{if((obj as Mesh).isMesh){obj.castShadow=true;obj.receiveShadow=true}});return copy},[scene]);return <primitive object={model} rotation={[0,-.35,0]} dispose={null}/>}

@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "maha-seya",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5167935,
+          8.3506202
+        ]
+      },
+      "properties": {
+        "name": "Maha Seya",
+        "name:si": "මහා සෑය",
+        "coordinateStatus": "mapped",
+        "source": "https://www.openstreetmap.org/way/156291582",
+        "sourceLabel": "Area centroid of downloaded OSM footprint in EPSG:32644 (way/156291582)",
+        "transcribedOn": "2026-10-13",
+        "method": "Derived from cached OSM nodes, polygon centroids or stairway midpoint; see osm-landmark-derivation.json. Not a survey.",
+        "modelAccuracy": "Approximate model · proportions and details are not surveyed."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ambasthala",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5177526,
+          8.3512986
+        ]
+      },
+      "properties": {
+        "name": "Ambasthala Stupa",
+        "name:si": "අම්බස්තල දාගැබ",
+        "coordinateStatus": "mapped",
+        "source": "https://www.openstreetmap.org/way/398907408",
+        "sourceLabel": "Area centroid of downloaded OSM footprint in EPSG:32644 (way/398907408)",
+        "transcribedOn": "2026-10-13",
+        "method": "Derived from cached OSM nodes, polygon centroids or stairway midpoint; see osm-landmark-derivation.json. Not a survey.",
+        "modelAccuracy": "Approximate model · proportions and details are not surveyed."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aradhana-gala",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5182896,
+          8.3510324
+        ]
+      },
+      "properties": {
+        "name": "Aradhana Gala",
+        "name:si": "ආරාධනා ගල",
+        "coordinateStatus": "mapped",
+        "source": "https://www.openstreetmap.org/node/1402637230",
+        "sourceLabel": "OSM node coordinate (node/1402637230)",
+        "transcribedOn": "2026-10-13",
+        "method": "Derived from cached OSM nodes, polygon centroids or stairway midpoint; see osm-landmark-derivation.json. Not a survey.",
+        "modelAccuracy": "Approximate model · proportions and details are not surveyed."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "white-buddha",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5176702,
+          8.3519428
+        ]
+      },
+      "properties": {
+        "name": "White Buddha statue",
+        "name:si": "සුදු බුද්ධ ප්‍රතිමාව",
+        "coordinateStatus": "mapped",
+        "source": "https://www.openstreetmap.org/node/9349793101",
+        "sourceLabel": "OSM node coordinate (node/9349793101)",
+        "transcribedOn": "2026-10-13",
+        "method": "Derived from cached OSM nodes, polygon centroids or stairway midpoint; see osm-landmark-derivation.json. Not a survey.",
+        "modelAccuracy": "Approximate model · proportions and details are not surveyed."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "main-stairway",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5145027,
+          8.3528131
+        ]
+      },
+      "properties": {
+        "name": "Main stairway & terraces",
+        "name:si": "ප්‍රධාන පියගැට පෙළ සහ මළු",
+        "coordinateStatus": "mapped",
+        "source": "https://www.openstreetmap.org/way/1356595420",
+        "sourceLabel": "Length midpoint of mapped northern stairway; main-stairway association is interpretation, not access verification (way/1356595420)",
+        "transcribedOn": "2026-10-13",
+        "method": "Derived from cached OSM nodes, polygon centroids or stairway midpoint; see osm-landmark-derivation.json. Not a survey.",
+        "modelAccuracy": "Approximate model · proportions and details are not surveyed."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "kantaka-cetiya",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5136937,
+          8.3522241
+        ]
+      },
+      "properties": {
+        "name": "Kantaka Cetiya",
+        "name:si": "කණ්ඨක චෛත්‍යය",
+        "coordinateStatus": "mapped",
+        "source": "https://www.openstreetmap.org/way/126442943",
+        "sourceLabel": "Area centroid of downloaded OSM footprint in EPSG:32644 (way/126442943)",
+        "transcribedOn": "2026-10-13",
+        "method": "Derived from cached OSM nodes, polygon centroids or stairway midpoint; see osm-landmark-derivation.json. Not a survey.",
+        "modelAccuracy": "Approximate model · proportions and details are not surveyed."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "naga-pokuna",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5156182,
+          8.3501414
+        ]
+      },
+      "properties": {
+        "name": "Naga Pokuna",
+        "name:si": "නාග පොකුණ",
+        "coordinateStatus": "mapped",
+        "source": "https://www.openstreetmap.org/way/390565267",
+        "sourceLabel": "Area centroid of downloaded OSM footprint in EPSG:32644 (way/390565267)",
+        "transcribedOn": "2026-10-13",
+        "method": "Derived from cached OSM nodes, polygon centroids or stairway midpoint; see osm-landmark-derivation.json. Not a survey.",
+        "modelAccuracy": "Approximate model · proportions and details are not surveyed."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "alms-hall",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.515468,
+          8.3519012
+        ]
+      },
+      "properties": {
+        "name": "Alms Hall",
+        "name:si": "දාන ශාලාව",
+        "coordinateStatus": "mapped",
+        "source": "https://www.openstreetmap.org/way/581144469",
+        "sourceLabel": "Area centroid of downloaded OSM footprint in EPSG:32644 (way/581144469)",
+        "transcribedOn": "2026-10-13",
+        "method": "Derived from cached OSM nodes, polygon centroids or stairway midpoint; see osm-landmark-derivation.json. Not a survey.",
+        "modelAccuracy": "Mapped footprint · masonry heights and pillar spacing interpreted from references, not surveyed."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relic-house",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5153228,
+          8.3515592
+        ]
+      },
+      "properties": {
+        "name": "Relic House",
+        "name:si": "ධාතු මන්දිරය",
+        "coordinateStatus": "mapped",
+        "source": "https://www.openstreetmap.org/way/581144470",
+        "sourceLabel": "Area centroid of downloaded OSM footprint in EPSG:32644 (way/581144470)",
+        "transcribedOn": "2026-10-13",
+        "method": "Derived from cached OSM nodes, polygon centroids or stairway midpoint; see osm-landmark-derivation.json. Not a survey.",
+        "modelAccuracy": "Mapped footprint · masonry heights and pillar spacing interpreted from references, not surveyed."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "assembly-hall",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5152325,
+          8.3512777
+        ]
+      },
+      "properties": {
+        "name": "Assembly Hall",
+        "name:si": "සන්නිපාත ශාලාව",
+        "coordinateStatus": "mapped",
+        "source": "https://www.openstreetmap.org/way/581144471",
+        "sourceLabel": "Area centroid of downloaded OSM footprint in EPSG:32644 (way/581144471)",
+        "transcribedOn": "2026-10-13",
+        "method": "Derived from cached OSM nodes, polygon centroids or stairway midpoint; see osm-landmark-derivation.json. Not a survey.",
+        "modelAccuracy": "Mapped footprint · masonry heights and pillar spacing interpreted from references, not surveyed."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "image-house",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5152762,
+          8.349047
+        ]
+      },
+      "properties": {
+        "name": "Image House ruins",
+        "name:si": "පිළිම ගෙයි නටබුන්",
+        "coordinateStatus": "mapped",
+        "source": "https://www.openstreetmap.org/way/581147399",
+        "sourceLabel": "Area centroid of downloaded OSM footprint in EPSG:32644 (way/581147399)",
+        "transcribedOn": "2026-10-13",
+        "method": "Derived from cached OSM nodes, polygon centroids or stairway midpoint; see osm-landmark-derivation.json. Not a survey.",
+        "modelAccuracy": "Mapped footprint · masonry heights and pillar spacing interpreted from references, not surveyed."
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+export const photographs:Record<string,{file:string;caption:string;author:string;license:string;licenseUrl:string;source:string}>={
+ 'white-buddha':{file:'buddha.jpg',caption:'Actual Mihintale Buddha — detail reference',author:'Ranabolt',license:'Public domain',licenseUrl:'https://commons.wikimedia.org/wiki/File:The_Buddha_at_Mihintale,_Sri_Lanka.JPG',source:'https://commons.wikimedia.org/wiki/File:The_Buddha_at_Mihintale,_Sri_Lanka.JPG'},
+ 'assembly-hall':{file:'assembly-hall.jpg',caption:'Sannipata Sala / Conversation Hall, 2018',author:'Yasasuru',license:'CC BY-SA 4.0',licenseUrl:'https://creativecommons.org/licenses/by-sa/4.0/',source:'https://commons.wikimedia.org/wiki/File:Conversation_Hall_of_Mihintale.jpg'},
+ 'main-stairway':{file:'stairs.jpg',caption:'Mihintale stone steps, 2024 — material reference; exact flight unverified',author:'Uviein',license:'CC BY-SA 4.0',licenseUrl:'https://creativecommons.org/licenses/by-sa/4.0/',source:'https://commons.wikimedia.org/wiki/File:Escaleras_de_Mihintale_1.jpg'}
+};

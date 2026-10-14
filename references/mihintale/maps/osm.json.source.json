@@ -1,0 +1,9 @@
+{
+  "name": "OpenStreetMap sacred hill extract",
+  "sourceURL": "https://api.openstreetmap.org/api/0.6/map.json?bbox=80.512,8.348,80.520,8.354",
+  "license": "ODbL 1.0 — https://www.openstreetmap.org/copyright",
+  "retrievedAt": "2026-10-13T17:33:48.774Z",
+  "crs": "EPSG:4326",
+  "sha256": "0b658abc944266ed1f14316f4de7b6010546104f847bec0e712718901f428c77",
+  "method": "OSM API v0.6 bounding-box JSON export; Overpass primary returned 406 and secondary timed out"
+}

@@ -1,0 +1,141 @@
+{
+  "source": "data/raw/osm.json",
+  "notes": [
+    "Sela Cetiya way 398907408 retained for Ambasthala based on alias/source review. A separate way 581207227 named Ambasthala is about 74 m west; this naming conflict is unresolved.",
+    "Polygon centres are derived anchor positions, not surveyed reference marks."
+  ],
+  "landmarks": {
+    "maha-seya": {
+      "coordinates": [
+        80.5167935,
+        8.3506202
+      ],
+      "source": {
+        "label": "Area centroid of downloaded OSM footprint in EPSG:32644 (way/156291582)",
+        "url": "https://www.openstreetmap.org/way/156291582"
+      },
+      "osmId": "way/156291582",
+      "method": "Area centroid of downloaded OSM footprint in EPSG:32644"
+    },
+    "ambasthala": {
+      "coordinates": [
+        80.5177526,
+        8.3512986
+      ],
+      "source": {
+        "label": "Area centroid of downloaded OSM footprint in EPSG:32644 (way/398907408)",
+        "url": "https://www.openstreetmap.org/way/398907408"
+      },
+      "osmId": "way/398907408",
+      "method": "Area centroid of downloaded OSM footprint in EPSG:32644"
+    },
+    "aradhana-gala": {
+      "coordinates": [
+        80.5182896,
+        8.3510324
+      ],
+      "source": {
+        "label": "OSM node coordinate (node/1402637230)",
+        "url": "https://www.openstreetmap.org/node/1402637230"
+      },
+      "osmId": "node/1402637230",
+      "method": "OSM node coordinate"
+    },
+    "white-buddha": {
+      "coordinates": [
+        80.5176702,
+        8.3519428
+      ],
+      "source": {
+        "label": "OSM node coordinate (node/9349793101)",
+        "url": "https://www.openstreetmap.org/node/9349793101"
+      },
+      "osmId": "node/9349793101",
+      "method": "OSM node coordinate"
+    },
+    "main-stairway": {
+      "coordinates": [
+        80.5145027,
+        8.3528131
+      ],
+      "source": {
+        "label": "Length midpoint of mapped northern stairway; main-stairway association is interpretation, not access verification (way/1356595420)",
+        "url": "https://www.openstreetmap.org/way/1356595420"
+      },
+      "osmId": "way/1356595420",
+      "method": "Length midpoint of mapped northern stairway; main-stairway association is interpretation, not access verification"
+    },
+    "kantaka-cetiya": {
+      "coordinates": [
+        80.5136937,
+        8.3522241
+      ],
+      "source": {
+        "label": "Area centroid of downloaded OSM footprint in EPSG:32644 (way/126442943)",
+        "url": "https://www.openstreetmap.org/way/126442943"
+      },
+      "osmId": "way/126442943",
+      "method": "Area centroid of downloaded OSM footprint in EPSG:32644"
+    },
+    "naga-pokuna": {
+      "coordinates": [
+        80.5156182,
+        8.3501414
+      ],
+      "source": {
+        "label": "Area centroid of downloaded OSM footprint in EPSG:32644 (way/390565267)",
+        "url": "https://www.openstreetmap.org/way/390565267"
+      },
+      "osmId": "way/390565267",
+      "method": "Area centroid of downloaded OSM footprint in EPSG:32644"
+    },
+    "alms-hall": {
+      "coordinates": [
+        80.515468,
+        8.3519012
+      ],
+      "source": {
+        "label": "Area centroid of downloaded OSM footprint in EPSG:32644 (way/581144469)",
+        "url": "https://www.openstreetmap.org/way/581144469"
+      },
+      "osmId": "way/581144469",
+      "method": "Area centroid of downloaded OSM footprint in EPSG:32644"
+    },
+    "relic-house": {
+      "coordinates": [
+        80.5153228,
+        8.3515592
+      ],
+      "source": {
+        "label": "Area centroid of downloaded OSM footprint in EPSG:32644 (way/581144470)",
+        "url": "https://www.openstreetmap.org/way/581144470"
+      },
+      "osmId": "way/581144470",
+      "method": "Area centroid of downloaded OSM footprint in EPSG:32644"
+    },
+    "assembly-hall": {
+      "coordinates": [
+        80.5152325,
+        8.3512777
+      ],
+      "source": {
+        "label": "Area centroid of downloaded OSM footprint in EPSG:32644 (way/581144471)",
+        "url": "https://www.openstreetmap.org/way/581144471"
+      },
+      "osmId": "way/581144471",
+      "method": "Area centroid of downloaded OSM footprint in EPSG:32644"
+    },
+    "image-house": {
+      "coordinates": [
+        80.5152762,
+        8.349047
+      ],
+      "source": {
+        "label": "Area centroid of downloaded OSM footprint in EPSG:32644 (way/581147399)",
+        "url": "https://www.openstreetmap.org/way/581147399"
+      },
+      "osmId": "way/581147399",
+      "method": "Area centroid of downloaded OSM footprint in EPSG:32644"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "attemptedAt": "2026-10-13T10:54:47.833Z",
+  "url": "https://overpass-api.de/api/interpreter",
+  "error": "TypeError: fetch failed",
+  "cause": "AggregateError"
+}

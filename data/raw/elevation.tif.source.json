@@ -1,0 +1,12 @@
+{
+  "name": "Copernicus DEM GLO-30 2021",
+  "sourceURL": "https://copernicus-dem-30m.s3.amazonaws.com/Copernicus_DSM_COG_10_N08_00_E080_00_DEM/Copernicus_DSM_COG_10_N08_00_E080_00_DEM.tif",
+  "license": "Copernicus WorldDEM-30 licence — https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/DEM/resources/license/License-COPDEM-30.pdf",
+  "retrievedAt": "2026-10-13T17:34:15.683Z",
+  "crs": "EPSG:4326",
+  "verticalUnits": "m",
+  "verticalDatum": "EGM2008 orthometric metres",
+  "sourceResolution": "1 arc-second, nominal 30 m",
+  "product": "DSM",
+  "sha256": "1a59eb43c6fcf914983a2aa69e85b7e8e33cc1802fefa88f57ff37e8e1c44814"
+}
